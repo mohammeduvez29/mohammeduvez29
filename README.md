@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://mohammeduvez29.github.io/](https://mohammeduvez29.github.io/)
 
-- 💬 Ask me about **python, c**
+- 💬 Ask me about **Python, C**
 
 - 📫 How to reach me **mohammeduvezkhan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OfVpsNGcV7XVug7oHLBuJcOr2fqH6S7x/view?usp=sharing](https://drive.google.com/file/d/1OfVpsNGcV7XVug7oHLBuJcOr2fqH6S7x/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1OfVpsNGcV7XVug7oHLBuJcOr2fqH6S7x/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am an Ambivert**
 
